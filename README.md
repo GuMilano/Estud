@@ -1,2 +1,2 @@
 # Java
-Nesse repositório contém códigos em que eu estudei da linguagem java e fiz as minhas próprias anotações em cima deles, para fins educativos
+Este repositório contém códigos java que eu estudei e anotei para fins educativos.
